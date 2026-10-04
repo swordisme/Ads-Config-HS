@@ -1,0 +1,29 @@
+{
+  "isActive": true,
+  "games": [
+    {
+      "asin": "B0DLHNV2VR",
+      "packageName": "com.fereraworld.games.escapeevil.runninghead",
+      "title": "Escape Evil Running Head",
+      "img": "https://m.media-amazon.com/images/I/81y4jcoJLZL.png"
+    },
+    {
+      "asin": "B0D914VHWB",
+      "packageName": "com.zombiefaction.playground",
+      "title": "Zombie Faction Playground",
+      "img": "https://m.media-amazon.com/images/I/71XolbEYTfL.png"
+    },
+    {
+      "asin": "B0DQJQ9YP8",
+      "packageName": "obbyrun.prison.escape",
+      "title": "Barry Prison Escape Jailbreak",
+      "img": "https://m.media-amazon.com/images/I/81gWD4cwKTL.png"
+    },
+    {
+      "asin": "B0DWXZMSNH",
+      "packageName": "nextbot.backrooms.shooter",
+      "title": "Nextbots In Playground SANDBOXs",
+      "img": "https://m.media-amazon.com/images/I/81cOCRLq2oL.png"
+    }
+  ]
+}
